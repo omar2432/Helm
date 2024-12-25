@@ -1,4 +1,3 @@
-helm commands file
 #########################
 kubectl get services
 #lists all the installations that we have done using helm
